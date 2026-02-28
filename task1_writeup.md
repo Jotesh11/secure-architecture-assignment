@@ -1,3 +1,0 @@
-System Overview
-
-This system is an Online Payment Processing Application that allows customers to pay merchants via a web application. The system integrates with an external Payment Gateway and a Core Banking System for settlement. It provides an Admin Portal for internal staff to manage users, merchants, disputes, refunds, and system configuration. The application is internet-facing and must defend against both external attackers and insider misuse.
